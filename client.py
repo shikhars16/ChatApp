@@ -5,7 +5,7 @@ from tkinter import scrolledtext
 import os
 
 # Connection settings
-HOST = '127.0.0.1'
+HOST = 'chatapp-cpan226.up.railway.app'
 PORT = 12345
 
 # Initialize client socket
